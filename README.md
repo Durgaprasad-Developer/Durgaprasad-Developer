@@ -4,12 +4,18 @@
 🔹 Passionate about **Content Creation & AI** 🤖  
 🔹 Created: [🧑‍🚀 AI Avatars](#)  
 📩 **Contact Me**: [durgaprasadtheachiever@gmail.com](mailto:durgaprasadtheachiever@gmail.com)  
-[🌐 Portfolio](https://your-portfolio-link.com)  
+[🌐 Portfolio](https://your-portfolio-link.com)  (yet to build)
 
 ---
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/your-profile)  [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/your-channel)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter)](https://twitter.com/your-profile)  
+
+---
+
+### 🔥 Top Projects  
+🔹 **[NextThumbnail.ai](https://next-thumbnail-ai.vercel.app/)** - AI-powered thumbnail generator 🎨  
+🔹 **AI Trading Bot** - Automated trading system using market indicators 📊  
 
 ---
 
@@ -30,12 +36,6 @@
 
 ### ✍️ Random Dev Quote  
 > "Automate things and focus on Next big things" - **Durga Prasad**  
-
----
-
-### 🔥 Top Projects  
-🔹 **[NextThumbnail.ai](https://next-thumbnail-ai.vercel.app/)** - AI-powered thumbnail generator 🎨  
-🔹 **AI Trading Bot** - Automated trading system using market indicators 📊  
 
 ---
 
