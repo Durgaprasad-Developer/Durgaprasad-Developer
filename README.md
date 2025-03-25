@@ -1,34 +1,36 @@
 ## 🚀 About Me
 👋 Hi, I'm **Durga Prasad**!  
-🔹 Building AI Automation tools that help in my content ⚡  
-🔹 Passionate about Content Creation & AI 🤖  
+🔹 Building **AI Automation** tools that help in my content ⚡  
+🔹 Passionate about **Content Creation & AI** 🤖  
 🔹 Created: [🧑‍🚀 AI Avatars](#)  
-📩 **Contact Me**: durgaprasadtheachiever@gmail.com  
-[🔗 Portfolio](https://your-portfolio-link.com)  
+📩 **Contact Me**: [durgaprasadtheachiever@gmail.com](mailto:durgaprasadtheachiever@gmail.com)  
+[🌐 Portfolio](https://your-portfolio-link.com)  
 
 ---
 
 ### 🛠 Tech Stack  
-![MERN](https://img.shields.io/badge/MERN-13AA52?logo=mongodb&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
+![MERN](https://img.shields.io/badge/MERN-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgaprasad-Developer&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad-Developer&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Durgaprasad-Developer&theme=radical)  
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Durgaprasad-Developer&theme=radical)  
 
 ---
 
 ### ✍️ Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+> "Automate things and focus on Next big things" - **Durga Prasad**  
 
 ---
 
 ### 🔥 Top Projects  
-🔹 **NextThumbnail.ai** - AI-powered thumbnail generator 🎨  
+🔹 **[NextThumbnail.ai](https://your-link.com)** - AI-powered thumbnail generator 🎨  
 🔹 **AI Trading Bot** - Automated trading system using market indicators 📊  
 
 ---
