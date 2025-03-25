@@ -8,8 +8,13 @@
 
 ---
 
+### 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/your-profile)  [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/your-channel)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter)](https://twitter.com/your-profile)  
+
+---
+
 ### 🛠 Tech Stack  
-![MERN](https://img.shields.io/badge/MERN-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![MERN](https://img.shields.io/badge/MERN-%2313AA52?style=for-the-badge&logo=mongodb&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)  ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 ---
 
@@ -17,6 +22,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgaprasad-Developer&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad-Developer&layout=compact&theme=radical)  
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Durgaprasad-Developer&theme=radical)  
+
+#### 🏆 Contribution Progress  
+![GitHub Progress](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Durgaprasad-Developer&theme=radical)  
 
 ---
 
