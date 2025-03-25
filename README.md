@@ -34,7 +34,7 @@
 ---
 
 ### 🔥 Top Projects  
-🔹 **[NextThumbnail.ai](https://your-link.com)** - AI-powered thumbnail generator 🎨  
+🔹 **[NextThumbnail.ai](https://next-thumbnail-ai.vercel.app/)** - AI-powered thumbnail generator 🎨  
 🔹 **AI Trading Bot** - Automated trading system using market indicators 📊  
 
 ---
