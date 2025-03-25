@@ -15,7 +15,7 @@
 
 ### 🔥 Top Projects  
 🔹 **[NextThumbnail.ai](https://next-thumbnail-ai.vercel.app/)** - AI-powered thumbnail generator 🎨  
-🔹 **AI Trading Bot** - Automated trading system using market indicators 📊  
+🔹 **[AI Trading Bot](https://tradingpr.vercel.app/)** - Automated trading system using market indicators 📊  
 
 ---
 
