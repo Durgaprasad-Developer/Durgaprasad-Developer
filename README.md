@@ -2,7 +2,7 @@
 👋 Hi, I'm **Durga Prasad**!  
 🔹 Building **AI Automation** tools that help in my content ⚡  
 🔹 Passionate about **Content Creation & AI** 🤖  
-🔹 Created: [🧑‍🚀 AI Avatars](https://www.youtube.com/shorts/uAB37ooGBrU) (Complete video with AI including me)
+🔹 Created: [🧑‍🚀 AI Avatars](https://www.youtube.com/shorts/uAB37ooGBrU) (Complete video with AI including me)                                                                                                                                           
 📩 **Contact Me**: [durgaprasadtheachiever@gmail.com](mailto:durgaprasadtheachiever@gmail.com)  
 [🌐 Portfolio](https://your-portfolio-link.com)  (yet to build)
 
