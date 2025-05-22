@@ -34,15 +34,3 @@
 
 ---
 
-### ✍️ Random Dev Quote  
-> "Automate things and focus on Next big things" - **Durga Prasad**  
-
----
-
-### 🚀 Ongoing Projects  
-🔹 **AI Content Assistant** - Automating content creation with AI 📝  
-🔹 **Real-time Market Analyzer** - AI-driven market trend analysis 📈  
-
----
-
-🚀 Always looking to automate workflows and optimize processes at scale (unless it’s making coffee... AI still can't make a good one ☕).
