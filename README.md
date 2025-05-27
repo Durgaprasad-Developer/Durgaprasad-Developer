@@ -9,7 +9,7 @@
 ---
 
 ### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/your-profile)  [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/your-channel)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter)](https://twitter.com/your-profile)  
+[![LinkedIn](https://www.linkedin.com/in/durga-prasad-reddy-a151382a0/)  [![Instagram](https://www.instagram.com/____neon__9/)  [![YouTube](https://www.youtube.com/@durgaprasadBuilds)  [![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter)](https://twitter.com/your-profile)  
 
 ---
 
