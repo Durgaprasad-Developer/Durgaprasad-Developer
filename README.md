@@ -7,26 +7,26 @@
 
 ---
 
-### 🛠️ top builds
+### top builds
 
-#### 🎬 [CINERA](https://github.com/Durgaprasad-Developer/CINERA) — AI Film Streaming Platform
-Full streaming backend for AI-generated cinema: JWT auth, Razorpay subscription billing, signed-URL video delivery, embedding-based recommendations.
+#### [CINERA](https://github.com/Durgaprasad-Developer/CINERA) — AI Film Streaming Platform
+Full-stack streaming platform for AI-generated cinema: JWT auth with admin-guard middleware, time-expiring signed-URL video delivery, and a Gemini-embeddings recommendation engine using Postgres RPC cosine-similarity search.
 
-#### 🧠 [Cognitive RAG](https://github.com/Durgaprasad-Developer/Cognitive-RAG) — Self-Routing RAG Pipeline
-A PPO-trained agent picks the retrieval strategy per query; multi-provider LLM racing with a self-evaluation layer that catches and retries low-grounding answers.
+#### [DevDocs AI](https://github.com/Durgaprasad-Developer/Dev-Docs) — Self-Updating Developer Docs
+Generates and maintains documentation straight from a live GitHub repo: AST-based code parsing, webhook-driven change detection, and a pgvector-backed RAG chat assistant for exploring the docs.
 
-#### 🔐 [Krow](https://github.com/Durgaprasad-Developer/Freelance-Escrow) — AI-Verified Freelance Escrow
-6-agent LLM pipeline that verifies freelance milestones from GitHub activity before releasing payment, with a 3-way model failover chain.
+#### [Git X-Ray](https://github.com/Durgaprasad-Developer/Git-XRay) — AI-Powered GitHub Portfolio Reviewer
+Keeps deterministic signal scoring separate from AI interpretation — a weighted scoring engine computes the actual score across 6 dimensions, Gemini only writes the natural-language review, so it can't hallucinate a rating.
 
-#### 📄 [DevDocs AI](https://github.com/Durgaprasad-Developer/Dev-Docs) — Self-Updating Developer Docs
-AST-based parser + RAG doc-chat assistant that regenerates documentation straight from a live GitHub repo.
+#### [HeyGen-Clone](https://github.com/Durgaprasad-Developer/Heygen-clone) — Talking-Avatar Pipeline *(experimental, in progress)*
+FastAPI ingestion gateway, async audio/video worker queues, and a from-scratch PyTorch RL (GRPO) loop for lip-sync alignment.
 
-**more builds →** [Git X-Ray](https://github.com/Durgaprasad-Developer/Git-XRay) · [UX-Ray](https://github.com/Durgaprasad-Developer/UX-Ray) · [Sortiq](https://github.com/Durgaprasad-Developer/Sortiq)
+**more builds →** [Krow](https://github.com/Durgaprasad-Developer/Freelance-Escrow) · [Cognitive RAG](https://github.com/Durgaprasad-Developer/Cognitive-RAG) · [UX-Ray](https://github.com/Durgaprasad-Developer/UX-Ray) · [Sortiq](https://github.com/Durgaprasad-Developer/Sortiq)
 
 ---
 
 ### 🎨 stack
-`TypeScript` `Python` `Next.js` `FastAPI` `PostgreSQL / pgvector` `Redis` `Qdrant` `Docker` · LLM orchestration (Gemini, Groq, Llama) · RAG · Multi-Agent Systems · RL (PPO)
+`JavaScript` `TypeScript` `Java` `SQL` `Node.js` `Express.js` `FastAPI` `MongoDB` `PostgreSQL / pgvector` `Supabase` `Prisma ORM` `Docker` `GitHub Actions`
 
 ---
 
