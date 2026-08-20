@@ -5,12 +5,6 @@
   <img src="https://raw.githubusercontent.com/Durgaprasad-Developer/Durgaprasad-Developer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
-<p align="left">
-  <a href="https://www.youtube.com/@durgaprasadBuilds"><img src="https://img.shields.io/badge/YouTube-%40durgaprasadBuilds-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/durga-prasad-reddy-a151382a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:durgaprasadtheachiever@gmail.com"><img src="https://img.shields.io/badge/Email-durgaprasadtheachiever%40gmail.com-blueviolet?style=flat-square&logo=gmail" /></a>
-</p>
-
 I build and ship full-stack AI products, solo, end to end — RAG pipelines, multi-agent orchestration, and the production infra to run them. I learn the stack by building the thing, not before.
 
 **🏆 4th Place, Monad Blitz Bengaluru 2025 · Finalist, Smart India Hackathon 2025 · Finalist, Meta OpenEnv × Hugging Face**
@@ -40,12 +34,4 @@ AST-based parser + RAG doc-chat assistant that regenerates documentation straigh
 
 ---
 
-### 📊 telemetry
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgaprasad-Developer&show_icons=true&theme=radical&hide_border=true&background=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgaprasad-Developer&layout=compact&theme=radical&hide_border=true&background=0D1117" alt="Top Langs" width="48%" />
-</p>
-
----
-
-📟 [YouTube](https://www.youtube.com/@durgaprasadBuilds) · [LinkedIn](https://www.linkedin.com/in/durga-prasad-reddy-a151382a0/) · [durgaprasadpersonal@gmail.com](mailto:durgaprasadpersonal@gmail.com)
+[YouTube](https://www.youtube.com/@durgaprasadBuilds) · [LinkedIn](https://www.linkedin.com/in/durga-prasad-reddy-a151382a0/) · [durgaprasadpersonal@gmail.com](mailto:durgaprasadpersonal@gmail.com)
