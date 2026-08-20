@@ -1,9 +1,7 @@
 # hey, I'm Durga Prasad
 ### `I ship first, optimize later`
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Durgaprasad-Developer/Durgaprasad-Developer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+![My GitHub Game](game.gif)
 
 **🏆 4th Place, Monad Blitz Bengaluru 2025 · Finalist, Smart India Hackathon 2025 · Finalist, Meta OpenEnv × Hugging Face**
 
