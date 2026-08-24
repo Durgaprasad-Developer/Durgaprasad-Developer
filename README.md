@@ -1,5 +1,5 @@
 # hey, I'm Durga Prasad
-### `I ship first, optimize later`
+### `I Adapt And Win Anyway`
 
 ![My GitHub Game](game.gif)
 
